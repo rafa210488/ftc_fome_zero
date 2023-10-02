@@ -168,7 +168,7 @@ Cada visão é representada pelo seguinte conjunto de métricas:
 ## O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
-
+O painel pode ser acessado através desse link: https://rafael-ftc-fome-zero.streamlit.app
 ## Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibem essa métricas da melhor forma possível para o CEO.
 
